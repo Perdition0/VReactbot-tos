@@ -26,4 +26,4 @@ You may opt out by removing the bot from any server you have the rights for.
   
 ## Concerns
 
-If you have any concerns regarding the terms please join the [support server](https://discord.gg/bqujhycPrD).
+If you have any concerns regarding the terms please join the [support server](https://discord.gg/vnN3EFsHjR).
