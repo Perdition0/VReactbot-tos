@@ -4,7 +4,7 @@ Here we have provided details about the data BoboiBot collects and what its used
 ## What do we collect
 - Server IDs: Used to store server options such as custom prefixes etc.
 - Message Content: Never stored, but is used for making legacy commands work.
-- Infinium also stores your userid if you were in our [Support Server](https://discord.gg/vnN3EFsHjR)
+- BoboiBot also stores your userid if you were in our [Support Server](https://discord.gg/vnN3EFsHjR)
 - If at any time you were blacklisted, temporary or permanent from our bot, **blacklist information will be stored**.
 - When you get blacklisted **your userid, the admins userid, the date, and reason are stored**.
 - If you get muted, kicked or banned from a guild, **your userid is stored**.
